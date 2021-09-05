@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-04T18:55:39 IST" name="Automation Suite" finished-at="2021-09-04T18:55:58 IST" duration-ms="18319">
+    <groups>
+    </groups>
+    <test started-at="2021-09-04T18:55:39 IST" name="DevOps Demo" finished-at="2021-09-04T18:55:58 IST" duration-ms="18319">
+      <class name="automation.DevOpsEvening.RegisterDemo">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:automation.DevOpsEvening.RegisterDemo@2f177a4b]" started-at="2021-09-04T18:55:39 IST" name="launchApplication" finished-at="2021-09-04T18:55:57 IST" duration-ms="17947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="registerDemo()[pri:0, instance:automation.DevOpsEvening.RegisterDemo@2f177a4b]" started-at="2021-09-04T18:55:57 IST" name="registerDemo" finished-at="2021-09-04T18:55:57 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerDemo -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:automation.DevOpsEvening.RegisterDemo@2f177a4b]" started-at="2021-09-04T18:55:57 IST" name="closeApplication" finished-at="2021-09-04T18:55:58 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- automation.DevOpsEvening.RegisterDemo -->
+    </test> <!-- DevOps Demo -->
+  </suite> <!-- Automation Suite -->
+</testng-results>

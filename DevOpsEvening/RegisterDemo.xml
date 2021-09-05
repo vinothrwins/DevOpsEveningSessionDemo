@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Automation Suite">
+  <test name="DevOps Demo">
+    <classes>
+      <class name="automation.DevOpsEvening.RegisterDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
