@@ -43,5 +43,6 @@ public class RegisterDemo {
 	@Test
 	public void registerDemo() {
 		System.out.println("User is registered");
+		System.out.println("User is verified");
 	}
 }
