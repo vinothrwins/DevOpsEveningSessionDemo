@@ -6,6 +6,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+// Code is updated by Sultana on 5th sep - added the sysout message. 
+
 public class RegisterDemo {
 
 	public WebDriver driver;
@@ -44,5 +46,6 @@ public class RegisterDemo {
 	public void registerDemo() {
 		System.out.println("User is registered");
 		System.out.println("User is verified");
+		System.out.println("User is denied");
 	}
 }
